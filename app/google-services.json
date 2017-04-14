@@ -1,0 +1,73 @@
+{
+  "project_info": {
+    "project_number": "655302189015",
+    "firebase_url": "https://safety-b4fc9.firebaseio.com",
+    "project_id": "safety-b4fc9",
+    "storage_bucket": "safety-b4fc9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:655302189015:android:40a085cc5a1d4320",
+        "android_client_info": {
+          "package_name": "com.gkalyan0510.safety"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "655302189015-7u6gqibfvv1pqkdah176shumbci1oacf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjAvEYMRcIwSPIpwShZznp1Cp64_rAgeY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:655302189015:android:9997ce32cd0ee7a4",
+        "android_client_info": {
+          "package_name": "safety.gkalyan0510.com.myloc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "655302189015-7u6gqibfvv1pqkdah176shumbci1oacf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjAvEYMRcIwSPIpwShZznp1Cp64_rAgeY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
